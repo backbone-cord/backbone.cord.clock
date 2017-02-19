@@ -1,0 +1,32 @@
+{
+  "name": "backbone.cord.clock",
+  "version": "1.0.0",
+  "description": "Plugin for backbone.cord providing data bindings for both live Date values.",
+  "keywords": [
+    "backbone",
+    "backbone.cord",
+    "clock",
+    "date",
+    "scope",
+    "binding",
+    "plugin"
+  ],
+  "homepage": "https://github.com/backbone-cord/backbone.cord.clock",
+  "license": "MIT",
+  "main": [
+    "backbone.cord.clock.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+    "backbone.cord": ">=1.0.11"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
